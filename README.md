@@ -141,12 +141,14 @@ http://127.0.0.1:8000
 
 ## Application Routes
 
-`| Route        | Description                                       |
+```
+| Route        | Description                                       |
 | ------------ | ------------------------------------------------- |
-|`/login`    | User login page                                   |
-|`/register` | User registration page                            |
-|`/dashboard`| Dashboard showing **all blog posts**              |
-|`/posts`    | Shows only the **current logged-in user's posts** |`
+| `/login`     | User login page                                   |
+| `/register`  | User registration page                            |
+| `/dashboard` | Dashboard showing **all blog posts**              |
+| `/posts`     | Shows only the **current logged-in user's posts** |
+```
 
 ## API Endpoint
 
