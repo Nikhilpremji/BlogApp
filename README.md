@@ -23,8 +23,12 @@ composer install
 
 ### 3. Install Node dependencies and build assets
 
+```
 npm install
-npm run dev # or npm run build for production
+
+```
+
+`npm run dev` # or `npm run build` for production
 
 ### 4. Environment Configuration
 
