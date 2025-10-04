@@ -71,9 +71,7 @@ Create the database laravel_blog (or your preferred name) and run:
 php artisan migrate
 ```
 
-```
-php artisan db:seed # optional if seeders are included
-```
+`php artisan db:seed` # optional if seeders are included
 
 ### 6. Start the Development Server
 
