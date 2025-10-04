@@ -10,7 +10,7 @@
 ### 1. Clone the repositor
 
 ```bash
-git clone https://github.com/your-username/laravel-blog.git
+git clone https://github.com/Nikhilpremji/BlogApp.git
 cd laravel-blog
 ```
 
