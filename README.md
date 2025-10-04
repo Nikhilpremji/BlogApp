@@ -41,6 +41,7 @@ cp .env.example .env
 
 #### Set up your database and other settings in .env. Example:
 
+```
 APP_NAME=LaravelBlog
 APP_ENV=local
 APP_KEY=base64:GENERATED_KEY
@@ -53,6 +54,7 @@ DB_PORT=3306
 DB_DATABASE=laravel_blog
 DB_USERNAME=root
 DB_PASSWORD=
+```
 
 #### Generate the application key:
 
